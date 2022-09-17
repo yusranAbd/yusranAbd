@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/yusranabd_">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://open.spotify.com/user/y68n3lqx3qhicprnhtxk5s80i?si=qcrxtuVmSmaYFynz2il2vA&utm_source=whatsapp">
-			<img src="https://img.icons8.com/bubbles/344/spotify.png" ></a>
+			<img src="[https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-free-audio-and-music-with-advertisement-on-spotify-music-color-tal-revivo.png" ></a>
       </div>
 
 </p>
