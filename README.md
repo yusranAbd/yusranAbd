@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/yusranabd_">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+	 <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/yusranabd_">
+			<img src="https://img.icons8.com/spotify" ></a>
       </div>
 
 </p>
