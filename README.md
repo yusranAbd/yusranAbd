@@ -25,7 +25,7 @@ Here are some ideas to get you started:
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yusran-abdullah-43593a1a0">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/yusranAbd/">
-		<i class="fa-brands fa-github"></i></a>
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/yusranabd_/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/yusranabd_">
