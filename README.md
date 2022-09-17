@@ -25,13 +25,13 @@ Here are some ideas to get you started:
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yusran-abdullah-43593a1a0">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/yusranAbd/">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<i class="fa-brands fa-github"></i></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/yusranabd_/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/yusranabd_">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 	 <a style="margin-left: 10px;" target="_blank" href="https://open.spotify.com/user/y68n3lqx3qhicprnhtxk5s80i?si=qcrxtuVmSmaYFynz2il2vA&utm_source=whatsapp">
-			<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-free-audio-and-music-with-advertisement-on-spotify-music-color-tal-revivo.png" ></a>
+			<img src="" ></a>
       </div>
 
 </p>
