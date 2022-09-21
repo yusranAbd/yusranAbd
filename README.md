@@ -4,6 +4,16 @@ Yusran</a></h1>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+### Current Favorite Tech Stacks
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
