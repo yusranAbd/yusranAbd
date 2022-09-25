@@ -5,7 +5,6 @@ Yusran</a></h1>
 
 ### Current Favorite Tech Stacks
 
-* [![Next][Next.js]][Next-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
