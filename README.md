@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://yusranabd.github.io/" target="blank">
+<h1 align="center">Hi 👋, I'm >
 Yusran</a></h1>
 
 <br/>
