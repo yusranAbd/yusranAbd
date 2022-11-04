@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusran</h1>
 
 ![]()
-<img src="https://img.freepik.com/free-vector/color-seamless-space-pattern_102902-2360.jpg?w=900&t=st=1667578605~exp=1667579205~hmac=6fd2be3e9cc6a2c51a94f0cabf59a6981e11407c2d4461c37016a238909b32af" width="128px"/>
+<img src="https://img.freepik.com/free-vector/color-seamless-space-pattern_102902-2360.jpg?w=900&t=st=1667578605~exp=1667579205~hmac=6fd2be3e9cc6a2c51a94f0cabf59a6981e11407c2d4461c37016a238909b32af"  width="30" height="30"/>
 
 ### Current Favorite Tech Stacks
 
