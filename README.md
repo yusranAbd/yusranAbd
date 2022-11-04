@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusran</h1>
 
-<br/>
+![](https://sdtimes.com/wp-content/uploads/2017/10/29682337-83f3017e-88bf-11e7-846c-138e9639b87f.png)
 
 ### Current Favorite Tech Stacks
 
