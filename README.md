@@ -1,7 +1,7 @@
 ![](https://img.freepik.com/free-vector/tropical-landscape-with-sea-bay-night_107791-5364.jpg?w=1380&t=st=1667578980~exp=1667579580~hmac=f6b46f2cb27825ae5ba3d8affa7fc8ec6e236b05376799b871329d67c8080a36)
 
 <h1 align="center">Hi 👋, I'm Yusran</h1>
-<h3  align="center"> Im currently learning * [![Vue][Vue.js]][Vue-url] about and * [![Laravel][Laravel.com]][Laravel-url] for hobbies and professional purposes .</h3>
+<h3  align="center"> Im currently learning about [![Vue][Vue.js]] and for hobbies and professional purposes .</h3>
 
 ### Current Favorite Tech Stacks
 
@@ -10,8 +10,7 @@
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<p align="center">
-
+<div align="center">
  <div align="center"  class="icons-social row" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yusran-abdullah-43593a1a0">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
@@ -24,8 +23,7 @@
 	<a style="margin-left: 10px;" target="_blank" href="https://open.spotify.com/user/y68n3lqx3qhicprnhtxk5s80i?si=qcrxtuVmSmaYFynz2il2vA&utm_source=whatsapp">
 			<img src="https://img.icons8.com/spotify" ></a>
       </div>
-
-</p>
+</div>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
