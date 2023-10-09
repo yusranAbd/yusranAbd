@@ -1,3 +1,3 @@
 ### Hi there 👋
-- ⚙️ stack : `.html`, `.css`, `.tailwind`, `.nextjs`.
+- ⚙️ stack : `.html`, `.css`,`.Javascript`, `.tailwind`, `.nextjs`.
 - ⚙️ ide :  `vscode`.
