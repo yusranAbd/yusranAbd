@@ -1,7 +1,5 @@
 
-## Hallo 
-
-Install my-project with npm
+## こんにちは 👋
 
 ```bash
   class biodata{
