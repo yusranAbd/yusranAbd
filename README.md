@@ -3,7 +3,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-lightblue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-grey)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Learning-teal)
 
